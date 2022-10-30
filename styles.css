@@ -1,0 +1,30 @@
+body {
+    background-color: #4287f5;
+}
+
+h1 {
+    color: black;
+    font-family: Arial;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkgray;
+}
+
+b {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: bisque;
+}
+
+a{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: yellow;
+}
+
+.about {
+    font-size: 90px;
+    height: 20px;
+    margin-left: 30px;
+    padding-bottom: 60px;
+}
