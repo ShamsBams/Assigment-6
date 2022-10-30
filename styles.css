@@ -1,5 +1,6 @@
 body {
     background-color: #4287f5;
+    padding: 20px;
 }
 
 h1 {
@@ -17,14 +18,30 @@ b {
     color: bisque;
 }
 
-a{
+a {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: yellow;
+    /* text-decoration: none; */
 }
 
 .about {
-    font-size: 90px;
+    font-size: 60px;
     height: 20px;
     margin-left: 30px;
     padding-bottom: 60px;
+}
+
+.img-block {
+    display: flex;
+}
+
+.img {
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+    border-radius: 5%;
+}
+
+.img-right {
+    margin-right: 50px;
 }
